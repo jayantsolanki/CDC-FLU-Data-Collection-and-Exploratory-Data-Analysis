@@ -1,0 +1,6 @@
+install.packages("sp","RgoogleMaps", "png", "rjson", "mapproj", "jpeg", "geosphere", "/home/jayant/anaconda3/lib/R/library",repos="http://cran.us.r-project.org")
+install.packages("rjson", "/home/jayant/anaconda3/lib/R/library",repos="http://cran.us.r-project.org")
+install.packages("mapproj", "/home/jayant/anaconda3/lib/R/library",repos="http://cran.us.r-project.org")
+install.packages("jpeg", "/home/jayant/anaconda3/lib/R/library",repos="http://cran.us.r-project.org")
+install.packages("geosphere", "/home/jayant/anaconda3/lib/R/library",repos="http://cran.us.r-project.org")
+install.packages("rjson", "/home/jayant/anaconda3/lib/R/library",repos="http://cran.us.r-project.org")
