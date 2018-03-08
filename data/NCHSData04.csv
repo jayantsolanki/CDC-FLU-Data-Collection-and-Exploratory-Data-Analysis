@@ -1,4 +1,4 @@
-"Year","Week","Percent of Deaths Due to Pneumonia and Influenza","Expected","Threshold","All Deaths","Pneumonia Deaths","Influenza Deaths"
+"Year","Week","PIPercent","Expected","Threshold","All Deaths","Pneumonia Deaths","Influenza Deaths"
 2009,40,7.8277169697,7.23411,7.50529,46412,3484,149
 2009,41,8.3460702215,7.32283,7.59398,46453,3703,174
 2009,42,8.5983435544,7.41794,7.68906,47451,3841,239
