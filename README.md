@@ -1,7 +1,7 @@
 ![University at Buffalo](http://www.nsm.buffalo.edu/Research/mcyulab//img/2-line_blue_gray.png)
 
 ***
-# DIC-Lab1-Data-Collection-and-Exploratory-Data-Analysis
+# CDC-FLU-Data-Collection-and-Exploratory-Data-Analysis
 
 ## Project Summary
 
