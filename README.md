@@ -1,5 +1,3 @@
-![University at Buffalo](http://www.nsm.buffalo.edu/Research/mcyulab//img/2-line_blue_gray.png)
-
 ***
 # CDC-FLU-Data-Collection-and-Exploratory-Data-Analysis
 
@@ -20,5 +18,4 @@ Report and documentation can be found on this [Report](https://github.com/jayant
 ***
 * [**report**](https://github.com/jayantsolanki/CDC-FLU-Data-Collection-and-Exploratory-Data-Analysis/tree/master/report) contains summary report detailing our implementation and results.
 * [**codes**](https://github.com/jayantsolanki/CDC-FLU-Data-Collection-and-Exploratory-Data-Analysis/tree/master/codes)  contains the source code in R and ipython notebook
-* [**Materials**](https://github.com/jayantsolanki/CDC-FLU-Data-Collection-and-Exploratory-Data-Analysis/tree/master/materials) contains the project related informative materials
 * [**Data**](https://github.com/jayantsolanki/CDC-FLU-Data-Collection-and-Exploratory-Data-Analysis/tree/master/data) contains CSV files collected for the project
