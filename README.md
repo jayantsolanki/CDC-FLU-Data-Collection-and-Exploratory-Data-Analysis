@@ -6,7 +6,7 @@
 ### Exploratory Data Analysis of CDC Flu data for year 2017-2018
 * Here we downloaded  relevant csv files from the CDC Website for the Flu reporting and plotted relevant charts for understanding various aspects of the Flu Spread and Detection in United States.
 
-### Twitter Application Developement
+### Twitter Application Development
 * We searched tweets word or hash tag related to flu. Performed Data client processing to obtain and group tweets by
 location into categories then plotted them on the states/ color the states by the strength.
 
